@@ -1,5 +1,6 @@
-# This program will calculate your letter grade when given a numerical score
-# 19 March 2021
+# CTI-110
+# P3HW1 - Debugging
+# 22 March 2021
 # Ryan Vradenburgh
 
 def main():
@@ -31,12 +32,5 @@ def main():
                     if score < D_score:
                        print('Your grade is: F')
                      
-
-
-
-
-
-
-
 # program start
 main()
